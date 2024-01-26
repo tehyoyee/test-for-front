@@ -1,0 +1,25 @@
+.menu-container {
+	position: fixed;
+	display: flex;
+	flex-direction: row;
+	gap: 10px;
+	left: 0;
+	right: 0;
+	top: 0;
+	height: 70px;
+	background-color: aqua;
+	align-items: center;
+	justify-content: center;
+}
+
+.menu-button {
+	display: flex;
+	width: 150px;
+	height: 100%;
+	text-align: center;
+	background-color: azure;
+	flex-direction: column;
+	text-decoration-line: none;
+	border-color: black;
+	font-size: 25px;
+}
